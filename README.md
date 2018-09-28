@@ -3,4 +3,3 @@ fine.
 
  * add 1st list
  * add 2nd list
- * add 3rd list
